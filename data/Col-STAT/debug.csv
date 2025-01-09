@@ -1,0 +1,10 @@
+a_id,a_text,a_q_id,MB,MB15,JM,SL,num_annotators,num_ratings,num_ratings-1,maxvotes,random,True Label
+R_1l3OgnUojK96LJf_q4_a,No because many factors can go into why one fisherman caught bigger fish than the other such as location of the larger fish at the time of the trip.,q4_a,,,1,,1,1,0,1,0,1
+R_1l3OgnUojK96LJf_q3_b,"To decide whether or not to keep the order, the engineer should check each of the display screens and make sure they are in working order and could the ones that are not. If it is more than 5% of 150, or 7.5 screens do not work then they should reject the order.",q3_b,,,2,,1,1,0,1,0,2
+R_1l3OgnUojK96LJf_q3_a,No because the orders are all independent of each other. If the last order had more than 5% that has nothing to do with the next order being good or not.,q3_a,,,1,,1,1,0,1,0,1
+R_1l3OgnUojK96LJf_q2_b,If Carla has a higher score than the average mean then she would be considered as having a good ear for music.,q2_b,,,1,,1,1,0,1,0,1
+R_1l3OgnUojK96LJf_q2_a,In order to determine the percent of the notes that Carla could correctly identify. You should use statistical significance to see how she compares to the average person.,q2_a,,,2,,1,1,0,1,0,2
+R_1Kxv1joisWwlZ51_q4_b,"For example, the walleye in one area where Dan fishes may be larger on average than in the area where Mark is fishing.",q4_b,0,,,,1,1,0,1,0,0
+R_1Kxv1joisWwlZ51_q4_a,"No, variances in the walleye populations themselves could have an impact on the experiment.",q4_a,0,,,,1,1,0,1,0,0
+R_1Kxv1joisWwlZ51_q3_b,"If greater than 5% of the screens are deemed to be bad by the testing engineer, the order should be rejected.",q3_b,2,,,,1,1,0,1,0,2
+R_1Kxv1joisWwlZ51_q3_a,"Yes, an engineer can run a test to decide if the screens are good or bad and calculate whether or not more than 5% of the order is bad.",q3_a,1,,,,1,1,0,1,0,1

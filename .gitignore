@@ -1,0 +1,19 @@
+# Ignore all files in the GPTembeddings folder
+GPTembeddings/*
+
+# Ignore all checkpoint folders
+checkpoint/*
+SFRN_hugging/saved/*
+# General Python ignores
+*.pyc
+*.pyo
+__pycache__/
+*.env
+.env
+*.venv
+.venv
+*.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
